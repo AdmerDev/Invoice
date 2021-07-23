@@ -1,5 +1,13 @@
 .tableOuterBorder {
-    border: 1px solid black;
+    border: 1px solid gainsboro;
     border-collapse: collapse;
   }
+  
+.alignRight {
+      text-align: right;
+  }
+
+td {
+    vertical-align: center;
+}
 
